@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bessemer.CLI", "Bessemer.CLI\Bessemer.CLI.csproj", "{952ABBD4-141C-4888-8022-7056752089B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bessemer.Core", "Bessemer.Core\Bessemer.Core.csproj", "{02487B02-7A2B-45F3-A8E1-EB0C090F0BBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{952ABBD4-141C-4888-8022-7056752089B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952ABBD4-141C-4888-8022-7056752089B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952ABBD4-141C-4888-8022-7056752089B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952ABBD4-141C-4888-8022-7056752089B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02487B02-7A2B-45F3-A8E1-EB0C090F0BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02487B02-7A2B-45F3-A8E1-EB0C090F0BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02487B02-7A2B-45F3-A8E1-EB0C090F0BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02487B02-7A2B-45F3-A8E1-EB0C090F0BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
