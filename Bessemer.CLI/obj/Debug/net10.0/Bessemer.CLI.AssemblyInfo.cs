@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bessemer.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c077481c7a6dd8e69cc2f2fe62b4b76ecb872c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bessemer.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bessemer.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

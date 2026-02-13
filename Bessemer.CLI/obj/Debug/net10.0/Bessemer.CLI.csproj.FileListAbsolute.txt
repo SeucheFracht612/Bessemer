@@ -1,0 +1,15 @@
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\bin\Debug\net10.0\Bessemer.CLI.exe
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\bin\Debug\net10.0\Bessemer.CLI.deps.json
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\bin\Debug\net10.0\Bessemer.CLI.runtimeconfig.json
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\bin\Debug\net10.0\Bessemer.CLI.dll
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\bin\Debug\net10.0\Bessemer.CLI.pdb
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.AssemblyInfoInputs.cache
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.AssemblyInfo.cs
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.csproj.CoreCompileInputs.cache
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.sourcelink.json
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.dll
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\refint\Bessemer.CLI.dll
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.pdb
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\Bessemer.CLI.genruntimeconfig.cache
+C:\Users\jaron\Documents\Bessemer\Bessemer.CLI\obj\Debug\net10.0\ref\Bessemer.CLI.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "eD1WkvAwFhs=",
+  "dgSpecHash": "wYOR8F8Suuo=",
   "success": true,
   "projectFilePath": "C:\\Users\\jaron\\Documents\\Bessemer\\Bessemer.Core\\Bessemer.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jaron\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
