@@ -1,7 +1,13 @@
-﻿namespace Bessemer.Core.Models;
-
-public class Building(string Id, string Name)
+﻿public class Building
 {
-    public String Id { get; set; }
-    public String Name { get; set; }
+    public Building(string id, string name)
+    {
+        Id = id;
+        Name = name;
+    }
+    
+    public string Id { get; set; }
+    public string Name { get; set; }
+
+
 }
