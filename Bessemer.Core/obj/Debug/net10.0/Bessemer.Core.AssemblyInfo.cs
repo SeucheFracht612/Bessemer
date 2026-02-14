@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bessemer.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af48780f2adff8e53212f2cc09bfc8ed58114a25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6b0614d51013f1a1a8b3e3d1c691dfcfb24ec91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bessemer.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bessemer.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
